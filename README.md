@@ -43,7 +43,7 @@ This project analyzes six years of detailed sales data from **The Pho Spot**, a 
 
 - Pho consistently outperformed all other categories
 - 2020 dip due to COVID; strong recovery in 2022
-- Most active customers came from NC, IN, and Quebec
+- Most active customers came from NY, and Ontario
 - Summer months had higher sales due to local tourism
 - Temporary closures in April 2020 and Nov 2023 impacted revenue
 
